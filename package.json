@@ -1,0 +1,14 @@
+{
+  "name": "roomba",
+  "version": "1.0.0",
+  "description": "Clean up dirt based on input.txt file",
+  "main": "roomba.js",
+  "scripts": {
+    "start": "node roomba.js"
+  },
+  "author": "Thomas Hughes <thomas.s.hughes1@gmail.com>",
+  "dependencies": {
+    "fs": "*",
+    "readline": "*"
+  }
+}
